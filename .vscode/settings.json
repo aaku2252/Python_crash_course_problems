@@ -1,7 +1,0 @@
-{
-    "python.formatting.provider": "autopep8",
-    "tabnine.experimentalAutoImports": false,
-    "tabnine.disableFileRegex": [
-    \n","
-    ]
-}
